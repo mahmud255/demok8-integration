@@ -1,2 +1,0 @@
-# jenkinsdemo
-ndsjjkxk
