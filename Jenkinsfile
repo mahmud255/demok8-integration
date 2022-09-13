@@ -11,7 +11,7 @@ pipeline {
 
     stage('Checkout Source') {
       steps {
-        git 'https://github.com/mahmud255/nodeapp-testing.git'
+        git 'https://github.com/mahmud255/demok8-integration.git'
       }
     }
 
